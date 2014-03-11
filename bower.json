@@ -1,0 +1,16 @@
+{
+    "name": "boardy",
+    "version": "0.1.0",
+    "main": "boardy.js",
+    "authors": [
+        "Thomas Bailet <bailet.thomas@gmail.com>"
+    ],
+    "description": "A visualization toolkit based on d3.js, angular.js and elasticsearch",
+    "keywords": [
+        "dashboard",
+        "elasticsearch",
+        "d3",
+        "angular"
+    ],
+    "license": "Apache 2.0"
+}
