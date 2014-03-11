@@ -1,6 +1,6 @@
 {
     "name": "boardy",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "main": "boardy.js",
     "authors": [
         "Thomas Bailet <bailet.thomas@gmail.com>"
